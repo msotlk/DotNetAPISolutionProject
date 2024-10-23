@@ -29,5 +29,12 @@ namespace WebApplication1.Controllers
             })
             .ToArray();
         }
+
+
+
+        public string JK296325CheckLocate_Method() => "JK296325-Check-Locate";
+
+
+        public string JK296325CheckLocate_Method2() => "JK296325-Check-Locate2";
     }
 }
