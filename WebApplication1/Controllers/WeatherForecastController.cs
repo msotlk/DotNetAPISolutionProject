@@ -36,5 +36,8 @@ namespace WebApplication1.Controllers
 
 
         public string JK296325CheckLocate_Method2() => "JK296325-Check-Locate2";
+
+
+        public string JK9432_Method3() => "JK9432_Method3_2024_10_23";
     }
 }
